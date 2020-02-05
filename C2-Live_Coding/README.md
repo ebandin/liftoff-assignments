@@ -7,6 +7,11 @@ Your live coding administrator will be grading your ability to demonstrate your 
 [Live Coding Assignment](https://education.launchcode.org/liftoff/assignments/live-coding/)
 
 ## Submission Instructions
+
+
+https://github.com/ebandin/LiveCodingFinal_
+
+
 You are not required to submit anything via GitHub, but you are responsible for ensuring your grade is recorded correctly. Check your grade in Canvas after completing this assignment.
 
 This assignment can be attempted multiple times. If you would like to make another attempt at a Mock Interview talk to the Candidate Engagement Manager assigned to your course.
